@@ -1,8 +1,6 @@
 var intro = alert('Let’s make a story together!');
 
-A colour (orange, indigo, etc.)
-
----
+var colour = prompt('A colour (orange, indigo, etc.)');
 
 A creature (dragon, moth, etc.)
 
