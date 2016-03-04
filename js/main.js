@@ -8,7 +8,7 @@ var creature = prompt('A creature (dragon, moth, etc.)');
 
 var verbed = prompt('A past tense verb (ran, burped, etc.)');
 
-var story = prompt('Which story would you like? \n a) Snacking \n b) Escaping \n c) Winning \n Enter the letter below:);
+var story = prompt('Which story would you like? \na) Snacking \nb) Escaping \nc) Winning \nEnter the letter below:');
 
 ---
 
