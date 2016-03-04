@@ -1,12 +1,12 @@
 var intro = alert('Let’s make a story together!');
 
-var colour = prompt('A colour (orange, indigo, etc.)');
+var colour = prompt('A colour (orange, indigo, gray, turquoise, blue)');
 
 var adjective = prompt('An adjective (beautiful, super, smart, crazy)');
 
-var creature = prompt('A creature (dragon, moth, etc.)');
+var creature = prompt('A creature (dragon, moth, banana-monster, tiny  elephant, bear)');
 
-var verbed = prompt('A past tense verb (ran, burped, etc.)');
+var verbed = prompt('A past tense verb (ran, burped, jumped, hiccuped, swam)');
 
 var story = prompt('Which story would you like? \na) Snacking \nb) Escaping \nc) Winning \nEnter the letter below:');
 
