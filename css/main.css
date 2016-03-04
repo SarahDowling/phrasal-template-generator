@@ -1,0 +1,9 @@
+html {
+  box-sizing: border-box;
+
+  font: normal 100%/1.5 "Source Sans Pro", sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
