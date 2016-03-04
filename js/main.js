@@ -1,3 +1,16 @@
+var
+
+alert
+
+prompt
+
+document.write
+
+\+
+
+\\n
+
+
 Let’s make a story together!
 
 ---
