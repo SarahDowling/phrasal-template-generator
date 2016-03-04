@@ -10,17 +10,6 @@ var verbed = prompt('A past tense verb (ran, burped, etc.)');
 
 var story = prompt('Which story would you like? \na) Snacking \nb) Escaping \nc) Winning \nEnter the letter below:');
 
----
-
-Which story would you like?
-a) Snacking
-b) Escaping
-c) Winning
-
-Enter the letter below:
-
----
-
 After snacking on {adjective} treats, the {colour} bellied {creature} {verbed} for hours.
 
 Ameilia {verbed} through the {adjective} {colour} nebula escaping the space {creature}.
