@@ -19,12 +19,3 @@ if (story == 'b') {
 }
 
 Jackson chose his {adjective}, {colour} {creature} card and {verbed} it to the table knowing he won.
-
-
-prompt
-
-document.write
-
-\+
-
-\\n
