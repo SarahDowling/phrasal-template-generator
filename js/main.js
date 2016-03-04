@@ -1,19 +1,4 @@
-var
-
-alert
-
-prompt
-
-document.write
-
-\+
-
-\\n
-
-
-Let’s make a story together!
-
----
+var intro = alert('Let’s make a story together!');
 
 A colour (orange, indigo, etc.)
 
@@ -45,3 +30,12 @@ After snacking on {adjective} treats, the {colour} bellied {creature} {verbed} f
 Ameilia {verbed} through the {adjective} {colour} nebula escaping the space {creature}.
 
 Jackson chose his {adjective}, {colour} {creature} card and {verbed} it to the table knowing he won.
+
+
+prompt
+
+document.write
+
+\+
+
+\\n
